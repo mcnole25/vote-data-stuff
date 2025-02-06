@@ -1,6 +1,6 @@
 What time do you usually get up? I made a chart of common times to wake up.
 
-5575 votes were analyzed by Reddit comments. These figures MAY NOT be 100% accurate.
+5575 votes were analyzed by Reddit comments. These figures may NOT be 100% accurate.
 
 Time|Votes|Bar
 -|-|-
@@ -19,3 +19,11 @@ Time|Votes|Bar
 09:00|463|##############################################
 09:30|105|###########
 Night Shift|527|####################################################
+
+# Stats (may vary based on country & city)
+
+Average wake up time: 06:26:52
+
+Percentage of night shift workers: 9.45%
+
+About 65.8% of day shift workers are up by 07:00
