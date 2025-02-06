@@ -1,8 +1,6 @@
-Original link: https://github.com/mcnole25/mcnole25.github.io/wiki/Daily-Routine-Votes
+What are the most common daily tasks? Sleeping? School? Breakfast? You decided the schedule!
 
-1565 votes were casted on top 40 daily tasks.
-
-Votes were counted by Reddit comments & are subject to inaccuracy.
+1565 votes were counted by Reddit comments & are subject to inaccuracy.
 Votes|Task|Category
 -|-|-
 202|Work|Work
