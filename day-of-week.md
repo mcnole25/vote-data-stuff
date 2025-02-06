@@ -25,3 +25,14 @@ Thursday|30|10.5%|###########
 Friday|36|12.6%|#############
 Saturday|23|8.1%|########
 Sunday|51|17.9%|##################
+
+# Rankings
+Rank|Day|Difference
+-|-|-
+1st|Saturday|+15.6%
+2nd|Friday|+14.9%
+3rd|Thursday|+0.2%
+4th|Wednesday|-2%
+5th|Sunday|-4.5%
+6th|Tuesday|-10.6%
+7th|Monday|-13.6%
