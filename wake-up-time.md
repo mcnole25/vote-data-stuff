@@ -26,4 +26,4 @@ Average wake up time: 06:26:52
 
 Percentage of night shift workers: 9.45%
 
-About 65.8% of day shift workers are up by 07:00
+About 65.8% of day shift workers say they're up by 07:00
