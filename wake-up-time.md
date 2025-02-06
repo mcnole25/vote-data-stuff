@@ -20,7 +20,7 @@ Time|Votes|Bar
 09:30|105|###########
 Night Shift|527|####################################################
 
-# Stats (may vary based on country & city)
+# Stats (may vary based on country/city)
 
 Average wake up time: 06:26:52
 
