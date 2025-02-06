@@ -1,8 +1,8 @@
 Original link: https://github.com/mcnole25/mcnole25.github.io/wiki/Daily-Routine-Votes
 
-**1565 votes were casted on top 40 daily tasks.**
+1565 votes were casted on top 40 daily tasks.
 
-**These numbers were counted by Reddit comments & are subject to a degree of error.**
+Votes were counted by Reddit comments & are subject to inaccuracy.
 Votes|Task|Category
 -|-|-
 202|Work|Work
