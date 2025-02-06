@@ -1,6 +1,6 @@
 What are the most common daily tasks? Sleeping? School? Breakfast? You decided the schedule!
 
-1565 votes were counted by Reddit comments & are subject to inaccuracy.
+1565 votes were counted by Reddit comments.
 Votes|Task|Category
 -|-|-
 202|Work|Work
