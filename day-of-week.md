@@ -1,6 +1,6 @@
 What is your favorite, or least favorite day of the week?
 
-Votes were analyzed by several Reddit posts & comments, & may be subject to inaccuracy.
+808 votes were analyzed by several Reddit posts & comments, & may be subject to inaccuracy.
 
 # Most Favorite
 523 votes
