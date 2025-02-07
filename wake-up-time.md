@@ -22,7 +22,7 @@ Night Shift|527|####################################################
 
 # Stats
 
-Average wake up time: 06:26:52
+Average wake up time: 06:26:52 (weighted)
 
 Percentage of night shift workers: 9.5%
 
