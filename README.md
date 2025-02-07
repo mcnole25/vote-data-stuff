@@ -1,5 +1,5 @@
 # vote-data-stuff
-A collection of random interests, but vote-styled, from a data person. Most results I make aim for a couple thousand votes. Numbers made possible by Reddit & wordfrequency.org, & may vary based on region & culture.
+A collection of random interests, but vote-styled, from a data person. Most results I make aim for a couple thousand votes. Numbers made possible by Reddit & charactercounter.com/word-frequency-counter, & may vary based on region & culture.
 
 Results I compile may not be 100% accurate. This repository is made for fun & interest.
 
