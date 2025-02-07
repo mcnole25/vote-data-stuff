@@ -74,3 +74,5 @@ Tortillas|14
 # Stats
 
 Average dinner time: 19:05:40 (weighted)
+
+About 56.9% of people say they have dinner by 19:00
